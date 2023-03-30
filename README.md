@@ -8,9 +8,9 @@
 
 🌱 My transferable skills comprise an extensive set of competencies including project management, leadership, communication, and years of experience working in dynamic and high-pressure work environments.<br>
 
-💬 Ask me about online content creation.<br>
+💬 I am excited about the prospect of utilizing my skillset in a front-end development position since it satisfies my creative aspirations and offers a convenient medium to translate my ideas into digital form, resulting in speedy outcomes.<br>
 
-⚡ Fun fact: I love developing my skins in Graphic Design.
+⚡ Fun fact: I love Graphic Design.
 
 
 ## 🌐 Socials:
