@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-# 🤝 About Me:
-🔭 Hi, My name is Lucas and I'm a full-stack web developer seeking for a career shift. My educational background includes a Bachelor's degree in Mechanical Engineering. Furthermore, I've recently completed a full-stack development boot camp at the University of Sydney, which has enabled me to acquire proficiencies in an array of areas such as:
+🔭 My name is Lucas and I'm a full-stack web developer seeking for a career shift. My educational background includes a Bachelor's degree in Mechanical Engineering. Furthermore, I've recently completed a full-stack development boot camp at the University of Sydney, which has enabled me to acquire proficiencies in an array of areas such as:
 
 - JavaScript
 - CSS
