@@ -2,20 +2,9 @@
 
 🔭 My name is Lucas and I'm a full-stack web developer seeking for a career shift. My educational background includes a Bachelor's degree in Mechanical Engineering. Furthermore, I've recently completed a full-stack development boot camp at the University of Sydney, which has enabled me to acquire proficiencies in an array of areas such as:
 
-- JavaScript
-- CSS
-- Bootstrap
-- Responsive web design
-- React.js
-- Node.js 
-- Express
-- MySQL
-- Sequelize
-- MongoDB
-- APIs
-- GitHub
-- Heroku
-- and several other relevant skills.<br>
+- Front End: JavaScript, ReactJS, Responsive design, Bootstrap,
+- Back End: NodeJS, Express, MySQL, MongoDB, Sequelize, e APIs
+- Deployment: GitHub, Heroku <br>
 
 🌱 My transferable skills comprise an extensive set of competencies including project management, leadership, communication, and years of experience working in dynamic and high-pressure work environments.<br>
 
